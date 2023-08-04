@@ -67,7 +67,11 @@ these steps:
    ```sh
    npm install
    ```
-4. Start the application development server 🚀
+4. Checkout to the starter branch 🌴
+   ```sh
+   git checkout starter
+   ```
+5. Start the application development server 🚀
    ```sh
    npm run dev
    ```
