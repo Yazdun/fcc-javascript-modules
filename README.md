@@ -46,6 +46,8 @@ Understanding the difference between these two methods is essential for effectiv
 
 In this article, we will explore the differences between Default and Named exports in JavaScript, highlighting their use cases and best practices to help you choose the right approach for your projects.
 
+[Read more on freeCodeCamp](https://www.freecodecamp.org/news/what-is-the-difference-between-default-and-named-exports-in-javascript)
+
 ## Getting Started
 
 To get started with the project in your local development environment, follow
