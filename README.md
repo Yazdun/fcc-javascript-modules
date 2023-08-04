@@ -7,26 +7,27 @@
     <img src="./public/fcc.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App</h3>
+<h3 align="center">What is the difference between Default and Named exports in JavaScript?</h3>
 
   <p align="center">
-    A Step-By-Step Tutorial for Beginners
+    An introduction to JavaScript modules
     <br />
-    <a href="https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers"><strong>Read on FreeCodeCamp »</strong></a>
+    <a href="https://www.freecodecamp.org/news/what-is-the-difference-between-default-and-named-exports-in-javascript"><strong>Read on FreeCodeCamp »</strong></a>
     <br />
     <br />
-    <a href="https://react-ts-fcc-tutorial.vercel.app/">View Demo</a>
+    <a href="https://fcc-javascript-modules.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/Yazdun/react-ts-fcc-tutorial/issues">Request Feature</a>
+    <a href="https://github.com/Yazdun/fcc-javascript-modules/issues">Request Feature</a>
     ·
-    <a href="https://github.com/Yazdun/react-ts-fcc-tutorial/issues">Report Bug</a>
+    <a href="https://github.com/Yazdun/fcc-javascript-modules/issues">Report Bug</a>
   </p>
 
 [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-brightgreen?logo=freeCodeCamp)](https://www.freecodecamp.org/)
-[![React](https://img.shields.io/badge/-React-blue?logo=React)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-6E36F6?logo=TypeScript&logoColor=white&color=black)](#)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=Tailwind%20CSS&logoColor=black&color=white)](https://tailwindcss.com/)
-[![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-blue?logo=Framer)](https://www.framer.com/api/motion/)
+[![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Vite](https://img.shields.io/badge/-Vite-663399?logo=vite)](https://vitejs.dev/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Netlify](https://img.shields.io/badge/-Netlify-006400?logo=netlify)](https://www.netlify.com/)
 
 </div>
 
@@ -50,30 +51,24 @@ In this article, we will explore the differences between Default and Named expor
 To get started with the project in your local development environment, follow
 these steps:
 
-1. Clone the repository to your local machine.
+1. Clone the project by running the following command on the terminal 🔽
+   ```sh
+   git@github.com:Yazdun/fcc-javascript-modules.git
+   ```
+2. Go into the project directory 🔽
 
-```bash
-git@github.com:Yazdun/react-ts-fcc-tutorial.git
-```
+   ```sh
+   cd fcc-javascript-modules
+   ```
 
-2. Open the cloned folder in your preferred code editor, install the required
-   dependencies by running the following command in the terminal:
-
-```bash
-npm install
-```
-
-3. To access the starter files for the tutorial, use the following command:
-
-```bash
-git checkout starter
-```
-
-4. Start the development server by running the following command:
-
-```bash
-npm run dev
-```
+3. Install all the dependencies ✅
+   ```sh
+   npm install
+   ```
+4. Start the application development server 🚀
+   ```sh
+   npm run dev
+   ```
 
 You are now ready to go!
 
